@@ -1,0 +1,7 @@
+.centered-content {
+    background-color: blue; /* Set background color to blue */
+    text-align: center; /* Center the text and content horizontally */
+    padding: 2rem; /* Add some padding around the content */
+    border-radius: 8px; /* Optionally, add rounded corners */
+    color: white; /* Set text color to white for better contrast */
+}
